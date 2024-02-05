@@ -10,10 +10,9 @@
 
 char auth[] = BLYNK_AUTH_TOKEN;
 
-//char ssid[] = "İsmail iPhone’u";  //  wifi ismi
-//char pass[] = "ismailcep";  // wifi şifre
-char ssid[] = "ASUS";
-char pass[] = "asus1234";
+char ssid[] = "********";  //  wifi name
+char pass[] = "*********";  // wifi key
+
 
 
 #define fan_co2 D5  //For decreasing Co2 with a fan.
