@@ -14,9 +14,9 @@ NodeMCU ESP8266 development board was used in the project. Code was written in A
 ## Instructions
 
    It is necessary to install a few libraries for the project in Arduino IDE.
-	ESP8266WiFi.h
-	BlynkSimpleEsp8266.h
-	DHT.h
+*	ESP8266WiFi.h
+* BlynkSimpleEsp8266.h
+*	DHT.h
 
 ## How it Works
  
